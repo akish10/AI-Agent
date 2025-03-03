@@ -1,0 +1,2 @@
+Python 3.10.15
+numpy , pandas ,openai API ,langchain
